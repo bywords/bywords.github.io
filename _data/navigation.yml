@@ -1,0 +1,28 @@
+# main links links
+main:
+
+  #- title: "News"
+  #  url: /news/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /research/
+
+  #- title: "Research"
+  #  url: /research/
+
+  #- title: "Talks"
+  #  url: /talks/
+
+  #- title: "CV"
+  #  url: /cv/
+
+  #- title: "Teaching"
+  #  url: /teaching/
+
+
+
+  #- title: "Guide"
+  #  url: /markdown/
