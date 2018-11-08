@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I have research interests in various topics on social computing, involving quantitative data analysis such as social network analysis and natural language processing. Below is a summary of three main areas of my research.
+I have research interests in various topics on social computing and computational social science, involving quantitative data analysis such as social network analysis and natural language processing. Below is a summary of three main themes of my research.
 
 ## Identifying factors driving longevity in online services (CSCW'16, WWW'17)
 

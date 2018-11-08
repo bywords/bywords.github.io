@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kunwoo Park, PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kunwoo Park"
 description              : &description "personal description"
 url                      : https://bywords.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             :
   avatar           : "kun_phd.jpg"
-  bio              : "Postdoc at KAIST"
-  location         : "Daejeon, South Korea"
+  bio              : #"Postdoc at KAIST"
+  location         : "Seoul, South Korea"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=xiZ1ImoAAAAJ"
-  email            : "kw.park@kaist.ac.kr"
+  email            : "bywords.kor@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
