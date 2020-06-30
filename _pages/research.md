@@ -14,10 +14,14 @@ We first implemented a machine learning model that detects the incongruity betwe
 Motivated by the innate hierarchical structure of news article, we proposed attention-based hierarchical dual encoder (AHDE) that models a length news article through two-level recurrent neural networks.
 With an attention mechanism applied to the relationship of each paragraph and headline, AHDE outperformed other strong baselines using deep learning and feature-based approaches. 
 
+![Model structure](/images/fig_ahde_model_vec.png)
+
 In order to convey the results of machine learning model to potential readers in an effective manner, 
 we implemented BaitWatcher, a lightweight web interface that guides readers in estimating the likelihood of incongruence before clicking the headline.
 The interface works as a browser extension based on the client-server architecture, which allows any readers to easily access the prediction results with a minimal computing resource.
 The results of a focus group interview suggests the importance of having an interpretable model for a more effective usage in the wild.
+
+![Baitwatcher design](/images/fig_bait_all_vec.png)
 
 You can watch a demonstration of the web interface at the following video.
 
