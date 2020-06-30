@@ -21,10 +21,13 @@ The interface works as a browser extension based on the client-server architectu
 The results of a focus group interview suggests the importance of having an interpretable model for a more effective usage in the wild.
 
 You can watch a demonstration of the web interface at the following video.
+
 [![Link to the YouTube video](https://img.youtube.com/vi/XehbK4YqsYI/0.jpg)](https://www.youtube.com/watch?v=XehbK4YqsYI)
 
-[[Paper (AAAI'19)]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756) [[Code (AAAI'19)]](https://github.com/david-yoon/detecting-incongruity)
-[[Paper (FNDM)]](https://www.springer.com/gp/book/9783030426989) [[Code (FNDM)]](https://github.com/bywords/BaitWatcher)
+[[Paper (AAAI'19)]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756)
+[[Code (AAAI'19)]](https://github.com/david-yoon/detecting-incongruity)
+[[Paper (FNDM)]](https://www.springer.com/gp/book/9783030426989)
+[[Code (FNDM)]](https://github.com/bywords/BaitWatcher)
 
   
 
@@ -45,7 +48,9 @@ This study not only helps companies detect dissatisfied customers on live chat s
 
 ![Distribution of customer satisfaction across different types of datasets](/images/www18_dist.png)
 
-[[Paper (CIKM'15)]](https://dl.acm.org/doi/abs/10.1145/2806416.2806621) [[Paper (WWW'18)]](https://dl.acm.org/doi/abs/10.1145/3184558.3186579) [[Code (WWW)]](https://github.com/bywords/Positivity-Bias-Livechat)
+[[Paper (CIKM'15)]](https://dl.acm.org/doi/abs/10.1145/2806416.2806621) 
+[[Paper (WWW'18)]](https://dl.acm.org/doi/abs/10.1145/3184558.3186579)
+[[Code (WWW'18)]](https://github.com/bywords/Positivity-Bias-Livechat)
 
 
 
@@ -60,6 +65,7 @@ Exploiting such behavioral signals could contribute to the platforms retaining p
 
 ![Importance of three different factors over time](/images/www17_perf.png)
 
-[[Paper (CSCW'16)]](https://dl.acm.org/doi/abs/10.1145/2818048.2819921) [[Paper (WWW'17)]](https://dl.acm.org/doi/abs/10.1145/3041021.3054176)
+[[Paper (CSCW'16)]](https://dl.acm.org/doi/abs/10.1145/2818048.2819921)
+[[Paper (WWW'17)]](https://dl.acm.org/doi/abs/10.1145/3041021.3054176)
 
 
