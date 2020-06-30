@@ -9,13 +9,12 @@ author_profile: true
 #### Published at AAAI'19 and Springer Book Chapters on Fake News, Disinformation and Misinformation (FNDM)
 
 In digital environments where information is shared online, news headlines play essential role in the selection and diffusion of news articles,
-but some headlines mislead and lure readers with a wrong information.  
-We tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the main content.
+but some headlines mislead and lure readers with a wrong information. We tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the main content.
 We first implemented a machine learning model that detects the incongruity between a headline and a body text (AAAI'19).
 Motivated by the innate hierarchical structure of news article, we proposed attention-based hierarchical dual encoder (AHDE) that models a length news article through two-level recurrent neural networks.
 With an attention mechanism applied to the relationship of each paragraph and headline, AHDE outperformed other strong baselines using deep learning and feature-based approaches. 
 
-In order to convey the results of machine learning model to potential readers more effectively, 
+In order to convey the results of machine learning model to potential readers in an effective manner, 
 we implemented BaitWatcher, a lightweight web interface that guides readers in estimating the likelihood of incongruence before clicking the headline.
 The interface works as a browser extension based on the client-server architecture, which allows any readers to easily access the prediction results with a minimal computing resource.
 The results of a focus group interview suggests the importance of having an interpretable model for a more effective usage in the wild.
