@@ -29,7 +29,7 @@ You can watch a demonstration of the web interface at the following video.
 
 [[Paper (AAAI'19)]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756)
 [[Code (AAAI'19)]](https://github.com/david-yoon/detecting-incongruity)
-[[Paper (FNDM)]](https://www.springer.com/gp/book/9783030426989)
+[[Paper (FNDM)]](https://link.springer.com/chapter/10.1007/978-3-030-42699-6_12)
 [[Code (FNDM)]](https://github.com/bywords/BaitWatcher)
 
   
