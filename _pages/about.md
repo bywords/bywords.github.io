@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in UCLA, working with [Dr. Jungseock Joo](http://jsjoo.com). 
+I am a Postdoctoral Researcher at UCLA, working with [Dr. Jungseock Joo](http://jsjoo.com). Before joining UCLA, I was a postdoc at the Data Analytics group of Qatar Computing Research Institute, and I received my Ph.D. from KAIST in 2018 with the honored dissertation with the guidance of [Dr. Meeyoung Cha](https://ds.ibs.re.kr/index.php/ci/).
 
-My research interest lies in understanding and tackling emerging social phenomena using data science methods: so-called *Computational Social Science*. I have mostly analyzed the data of online news and social media through machine learning on text.
-Recent interest focuses on online misinformation and bias through the lens of multimedia, such as image and text. I hope my research efforts can contribute to making the polarized world a better place!
+My research area is **Applied Data Science for Social Good**. In particular, I am interested in understanding and tackling emerging social problems through online data, and my goal as a data scientist is to address the problems through machine learning techniques on content and user behaviors. Recent interest focuses on developing graph neural network methods for detecting online misinformation and social bias through multi-modal content such as image and text.
 
-I received my Ph.D. from KAIST in 2018 with the honored dissertation with the guidance of [Dr. Meeyoung Cha](https://ds.ibs.re.kr/index.php/ci/). 
-I have published studies at computer science or interdisciplinary conferences, such as WWW, AAAI, CSCW, and ICWSM.
-
-Please check the full list of publication records in my [CV](/files/kunwoo-cv.pdf) or the [Google Scholar profile](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ).
+Please check the full list of publication records in my [CV](/files/kunwoo-cv.pdf) or the [Google Scholar profile](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ). A summary of the three projects is available at this [page](https://bywords.github.io/research/).
 
 
 
