@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at UCLA, working with [Dr. Jungseock Joo](http://
 
 My research area is **Applied Data Science for Social Good**. In particular, I am interested in understanding and tackling emerging social problems through online data, and my goal as a data scientist is to address the problems through machine learning techniques on content and user behaviors. Recent interest focuses on developing graph neural network methods for detecting online misinformation and social bias through multi-modal content such as image and text.
 
-Please check the full list of publication records in my [CV](/files/kunwoo-cv.pdf) or the [Google Scholar profile](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ). A summary of the three projects is available at this [page](https://bywords.github.io/research/).
+Please check the full list of publication records in my [CV](/files/Kunwoo_CV.pdf) or the [Google Scholar profile](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ). A summary of the three projects is available at this [page](https://bywords.github.io/research/).
 
 
 
