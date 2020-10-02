@@ -15,7 +15,7 @@ My research area is **Data Science** using **Machine Learning**, and in particul
 My research has made significant contributions to web-based data science and has been published in premier venues (*WWW'13*, *ICWSM'13*, *CIKM'15*, *CSCW'16*, *WWW'17*, *WWW'18*, *AAAI'19*, *ICWSM'20*, *ICWSM'21*). 
 
 [[CV](/files/Kunwoo_CV.pdf)] 
-[[Google Scholar profile](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ)] 
+[[Google Scholar](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ)] 
 [[Summary of a few research projects](https://bywords.github.io/research/)]
 
 
