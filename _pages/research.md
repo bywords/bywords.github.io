@@ -5,16 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-## Detecting misleading news headlines through deep learning
+## Detecting mismatch between news headline and body text
 #### Published at AAAI'19 and Springer Book Chapters on Fake News, Disinformation and Misinformation (FNDM)
 
-In digital environments where information is shared online, news headlines play an essential role in the selection and diffusion of news articles,
-but some headlines mislead and lure readers with wrong information. We tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the main content.
-We implemented deep learning models that detect the incongruity between a headline and a body text (AAAI'19). Motivated by the innate hierarchical structure of news articles, we proposed an attention-based hierarchical dual encoder (AHDE) that models a length news article through two-level recurrent neural networks. With an attention mechanism applied to the relationship of each paragraph and headline, AHDE outperformed other strong baselines using deep learning and feature-based approaches.
+In digital environments where information is shared online, news headlines play an essential role in the selection and diffusion of news articles. If the short text does not represent the main content correctly, it can be misleading and adversely affect the entire news reading experiences.
+Therefore, we tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the part of the main content. 
+In particular, we implement deep learning models that detect the incongruity between a headline and a body text (AAAI'19). Motivated by the innate hierarchical structure of news articles, we proposed an attention-based hierarchical dual encoder (AHDE) that models a length news article through two-level recurrent neural networks. With an attention mechanism applied to the relationship of each paragraph and headline, AHDE outperformed other strong baselines using deep learning and feature-based approaches.
 
 ![Model structure](/images/fig_ahde_model_vec.png)
 
-In order to convey the results of the machine learning model to potential readers in an effective manner, we implemented BaitWatcher, a lightweight web interface that guides readers in estimating the likelihood of incongruence before clicking the headline.The interface works as a browser extension based on the client-server architecture, which allows any readers to easily access the prediction results with a minimal computing resource. The results of a focus group interview suggest the importance of having an interpretable model for more effective usage in the wild.
+In order to convey the results of the machine learning model to potential readers in an effective manner, we implement BaitWatcher, a lightweight web interface that guides readers in estimating the likelihood of incongruence before clicking the headline.The interface works as a browser extension based on the client-server architecture, which allows any readers to easily access the prediction results with a minimal computing resource. The results of a focus group interview suggest the importance of having an interpretable model for more effective usage in the wild.
 
 ![Baitwatcher design](/images/fig_bait_all_vec.png)
 
