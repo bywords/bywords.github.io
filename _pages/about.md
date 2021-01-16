@@ -12,7 +12,6 @@ I am a postdoctoral researcher at UCLA, working with [Dr. Jungseock Joo](http://
 Before joining UCLA, I was also a postdoc at Qatar Computing Research Institute. I received my Ph.D. from KAIST in 2018 with the honored dissertation with the guidance of [Dr. Meeyoung Cha](https://ds.ibs.re.kr/index.php/ci/).
 
 I am interested in tackling emerging social issues through analyzing online data and providing data-driven solutions for the mitigating the problems. Recent interest focuses on **detecting** *misinformation* and *social bias* in online media platforms, and **understanding** its effects on future audience behaviors. 
-
 My technical expertise lies in **Data Science** and **Machine Learning**, and in particular, I am interested in **Deep Learning on Text** and **Causal Inference**.
 
 My research has been published in premier computer science/interdisciplinary conferences (WWW, ICWSM, CIKM, CSCW, AAAI) and journals (JA). 
