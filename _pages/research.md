@@ -19,9 +19,9 @@ In order to convey the results of the machine learning model to potential reader
 
 ### Publications
 
-- Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network. In [IEEE Access, 2021](https://ieeexplore.ieee.org/abstract/document/9363185/).
-- Detecting incongruity between news headline and body text via a deep hierarchical encoder. In [AAAI, 2019](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756).
-- BaitWatcher: A Lightweight Web Interface for the Detection of Incongruent News Headlines. In [Springer Book Chapters on Disinformation, Misinformation, and Fake News in Social Media. 2020](https://link.springer.com/chapter/10.1007/978-3-030-42699-6_12).
+- [Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network. In IEEE Access, 2021.](https://ieeexplore.ieee.org/abstract/document/9363185/)
+- [Detecting incongruity between news headline and body text via a deep hierarchical encoder. In AAAI, 2019.](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756)
+- [BaitWatcher: A Lightweight Web Interface for the Detection of Incongruent News Headlines. In Springer Book Chapters on Disinformation, Misinformation, and Fake News in Social Media. 2020.](https://link.springer.com/chapter/10.1007/978-3-030-42699-6_12)
 
 ### Code
 
