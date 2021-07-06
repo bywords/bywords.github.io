@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Misleading Headline Detection
+## Misleading News Headline Detection
 
 In digital environments where information is shared online, news headlines play an essential role in the selection and diffusion of news articles. If the short text does not represent the main content correctly, it can be misleading and adversely affect the entire news reading experiences.
 Therefore, we tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the part of the main content. 
