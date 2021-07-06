@@ -1,35 +1,37 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Key Projects"
 permalink: /research/
 author_profile: true
 ---
 
-## Detecting mismatch between news headline and body text
-#### Published at AAAI'19 and Springer Book Chapters on Fake News, Disinformation and Misinformation (FNDM)
+## Misleading Headline Detection
 
 In digital environments where information is shared online, news headlines play an essential role in the selection and diffusion of news articles. If the short text does not represent the main content correctly, it can be misleading and adversely affect the entire news reading experiences.
 Therefore, we tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the part of the main content. 
-In particular, we implement deep learning models that detect the incongruity between a headline and a body text (AAAI'19). Motivated by the innate hierarchical structure of news articles, we proposed an attention-based hierarchical dual encoder (AHDE) that models a length news article through two-level recurrent neural networks. With an attention mechanism applied to the relationship of each paragraph and headline, AHDE outperformed other strong baselines using deep learning and feature-based approaches.
+In particular, we implement deep learning models that detect the incongruity between a headline and a body text. Motivated by the innate hierarchical structure of news articles, we first design an attention-based hierarchical dual encoder that models a length news article through two-level recurrent neural networks (AAAI'19). We extend the hierarchical approach by a graph neural network (GHDE) where headlines and paragraphs are connected. 
 
-![Model structure](/images/fig_ahde_model_vec.png)
+![Model structure](/images/fig_ghde_model.jpg)
 
-In order to convey the results of the machine learning model to potential readers in an effective manner, we implement BaitWatcher, a lightweight web interface that guides readers in estimating the likelihood of incongruence before clicking the headline.The interface works as a browser extension based on the client-server architecture, which allows any readers to easily access the prediction results with a minimal computing resource. The results of a focus group interview suggest the importance of having an interpretable model for more effective usage in the wild.
-
-![Baitwatcher design](/images/fig_bait_all_vec.png)
-
-You can watch a demonstration of the web interface in the following video.
+In order to convey the results of the machine learning model to potential readers in an effective manner, we implement BaitWatcher, a lightweight web interface that guides readers in estimating the likelihood of incongruence before clicking the headline (FNDM). You can watch a demonstration of the web interface in the following video.
 
 [![Link to the YouTube video](https://img.youtube.com/vi/XehbK4YqsYI/0.jpg)](https://www.youtube.com/watch?v=XehbK4YqsYI)
 
-[[Paper (AAAI'19)]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756)
-[[Code (AAAI'19)]](https://github.com/david-yoon/detecting-incongruity)
-[[Paper (FNDM)]](https://link.springer.com/chapter/10.1007/978-3-030-42699-6_12)
-[[Code (FNDM)]](https://github.com/bywords/BaitWatcher)
+### Publications
+
+- Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network. In [IEEE Access, 2021](https://ieeexplore.ieee.org/abstract/document/9363185/).
+- Detecting incongruity between news headline and body text via a deep hierarchical encoder. In [AAAI, 2019](https://www.aaai.org/ojs/index.php/AAAI/article/view/3756).
+- BaitWatcher: A Lightweight Web Interface for the Detection of Incongruent News Headlines. In [Springer Book Chapters on Disinformation, Misinformation, and Fake News in Social Media. 2020](https://link.springer.com/chapter/10.1007/978-3-030-42699-6_12).
+
+### Code
+
+- [GHDE](https://github.com/minwhoo/detecting-incongruity-gnn)
+- [AHDE](https://github.com/david-yoon/detecting-incongruity)
+- [BaitWatcher](https://github.com/bywords/BaitWatcher)
 
 
 
-
+<!--
 
 ## Modeling customer satisfaction in live chat customer services
 #### Published at CIKM'15 and WWW'18
@@ -60,3 +62,5 @@ From each different platform, we made a common finding on the importance of havi
 
 [[Paper (CSCW'16)]](https://dl.acm.org/doi/abs/10.1145/2818048.2819921)
 [[Paper (WWW'17)]](https://dl.acm.org/doi/abs/10.1145/3041021.3054176)
+
+-->
