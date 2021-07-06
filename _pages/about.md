@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at School of AI Convergence in Soongsil University.
-Before joining Soongsil, I was a postdoc at UCLA and QCRI. I received my Ph.D. at KAIST in 2018 with the guidance of [Dr. Meeyoung Cha](https://ds.ibs.re.kr/index.php/ci/).
+I am an assistant professor at the School of AI Convergence, Soongsil University. Before joining Soongsil, I was a postdoc at UCLA and QCRI. I received my Ph.D. in Web Science, KAIST in 2018.
 
-I am interested in tackling emerging social issues through analyzing online data and providing data-driven solutions for mitigating the problems. Recent interest focuses on **detecting** *misinformation* and *social bias* in online media platforms through multi-modal analyses, and **understanding** its effects on future *audience behaviors*. 
-My technical expertise lies in **Data Science** and **Deep Learning**, and in particular, I have experiences in **Natural Language Processing** and **Causal Inference**.
-
-My research has been published in premier computer science/interdisciplinary conferences (WWW, ICWSM, CIKM, CSCW, AAAI) and journals (JA, IEEE Access). 
+I am interested in tackling social problems through online data and data science approaches. Recent interest focuses on **detecting** misinformation and social bias in online media platforms through multi-modal analyses and **understanding** its effects on future *audience behaviors*. My technical expertise lies in **Data Science** and **Machine Learning**, and in particular, I have research experiences in developing deep NLP approaches and utilizing causal inference approaches. My research has been published in premier computer science/interdisciplinary conferences (ACL, WWW, ICWSM, CIKM, CSCW, AAAI) and social science/interdisciplinary journals (J. of Advertising). 
  
-You can check my previous research records and details in the following:
-
+[[Lab](https://ssu-humane.github.io)]
 [[CV](/files/Kunwoo_CV.pdf)]
 [[Google Scholar](https://scholar.google.com/citations?user=xiZ1ImoAAAAJ)] 
 [[Research Summary](https://bywords.github.io/research/)]
