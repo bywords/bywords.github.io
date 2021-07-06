@@ -7,9 +7,9 @@ author_profile: true
 
 ## Misleading News Headline Detection
 
-In digital environments where information is shared online, news headlines play an essential role in the selection and diffusion of news articles. If the short text does not represent the main content correctly, it can be misleading and adversely affect the entire news reading experiences.
+In digital environments where information is shared online, news headlines play an essential role in the selection and diffusion of news articles. If the short text does not represent the main content correctly, it can be misleading and adversely affect the entire news reading experience.
 Therefore, we tackle the headline incongruity problem, in which a headline makes an irrelevant or opposite claim to the part of the main content. 
-In particular, we implement deep learning models that detect the incongruity between a headline and a body text. Motivated by the innate hierarchical structure of news articles, we first design an attention-based hierarchical dual encoder that models a length news article through two-level recurrent neural networks (AAAI'19). We extend the hierarchical approach by a graph neural network (GHDE) where headlines and paragraphs are connected. 
+In particular, we implement deep learning models that detect the incongruity between a headline and a body text. Motivated by the innate hierarchical structure of news articles, we first design an attention-based hierarchical dual encoder that models a length news article through two-level recurrent neural networks. We further extend the hierarchical approach by a graph neural network where headlines and paragraphs are connected. 
 
 ![Model structure](/images/fig_ghde_model.jpg)
 
@@ -25,9 +25,9 @@ In order to convey the results of the machine learning model to potential reader
 
 ### Code
 
-- [GHDE](https://github.com/minwhoo/detecting-incongruity-gnn)
-- [AHDE](https://github.com/david-yoon/detecting-incongruity)
-- [BaitWatcher](https://github.com/bywords/BaitWatcher)
+- [IEEE Access'21](https://github.com/minwhoo/detecting-incongruity-gnn)
+- [AAAI'19](https://github.com/david-yoon/detecting-incongruity)
+- [FNDM'20](https://github.com/bywords/BaitWatcher)
 
 
 
@@ -64,3 +64,6 @@ From each different platform, we made a common finding on the importance of havi
 [[Paper (WWW'17)]](https://dl.acm.org/doi/abs/10.1145/3041021.3054176)
 
 -->
+
+
+
