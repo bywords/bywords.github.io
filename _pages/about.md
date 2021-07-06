@@ -14,7 +14,7 @@ I am interested in tackling social problems through online data and data science
 
 ## Additional info
 
-- [HUMANE Lab. at SSU](https://ssu-humane.github.io)
+- [HUMANE Lab.](https://ssu-humane.github.io)
 - [CV](/files/Kunwoo_CV.pdf)
 
 
