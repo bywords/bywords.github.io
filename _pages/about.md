@@ -12,7 +12,7 @@ I am an assistant professor at the School of AI Convergence, Soongsil University
 
 I am interested in tackling social problems through deep learning and language technologies using online data. My research has been published at premier computer science/interdisciplinary venues (AAAI, ACL, WWW, ICWSM, etc.). Recent interest focuses on data-centric AI for journalism/media studies.
 
-[CV](/files/Kunwoo_CV.pdf)
+[[CV]](/files/Kunwoo_CV.pdf)
 
 
 <!--- 
