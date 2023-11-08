@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the School of AI Convergence, Soongsil University, running [HUMANE Lab](https://ssu-humane.github.io). Before joining Soongsil, I was a postdoc at UCLA and QCRI. I received my Ph.D. in Web Science, from KAIST in 2018.
+I am an assistant professor at the School of AI Convergence, Soongsil University. I am the PI of [HUMANE Lab](https://ssu-humane.github.io), aiming to develop human-centered data and language technologies. 
+Our group tackles online social problems, such as misinformation and hate speech, by developing data-centric technologies based on language and/or vision, centered around human values.
 
-I am interested in tackling social problems through deep learning and language technologies. My research has been published at premier computer science/interdisciplinary venues (AAAI, ACL, WWW, ICWSM, etc.). Recent research focuses on data-centric contrastive learning.
+Before joining Soongsil University, I was a postdoc at UCLA and QCRI. I received my Ph.D. in Web Science from KAIST in 2018.
+My research has been published at premier computer science/interdisciplinary venues (AAAI, ACL, WWW, ICWSM, etc.).
 
 [\[CV\]](/files/Kunwoo_CV.pdf)
 
