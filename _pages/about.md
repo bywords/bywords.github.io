@@ -14,7 +14,7 @@ I am an assistant professor in the School of AI Convergence, Soongsil University
 
 Before joining Soongsil University, I was a postdoctoral researcher at UCLA, working with Jungseock Joo (now primarily affiliated with NVIDIA). I also held a postdoctoral position at the Qatar Computing Research Institute, where I collaborated with Haewoon Kwak, Jisun An (both now at Indiana University Bloomington), and Sanjay Chawla. I received my Ph.D. in Web Science from KAIST, under the supervision of Meeyoung Cha (now primarily affiliated with the Max Planck Institute for Security and Privacy).
 
-I am open to academic and industry collaborations. Please feel free to reach out to me at bywords.kor@gmail.com!
+I am open to academic and industry collaborations. Please feel free to reach out!
 
 [\[CV\]](/files/Kunwoo_CV.pdf)
 
